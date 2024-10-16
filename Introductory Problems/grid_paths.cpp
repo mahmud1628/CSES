@@ -67,3 +67,5 @@ int main() {
     int ans = solve(start_index,start_row,start_col);
     cout << ans << endl;
 }
+
+// solution video : USACO Guide
